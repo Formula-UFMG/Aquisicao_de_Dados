@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=MiniFit_CAN NewDesignator=CAN
+Change Component Designator: OldDesignator=MiniFit_Sensores NewDesignator=Sensores
+Change Component Designator: OldDesignator=MiniFit Sincronia NewDesignator=Sincronia
+Change Component Designator: OldDesignator=Transceiver_CAN NewDesignator=Transceiver
