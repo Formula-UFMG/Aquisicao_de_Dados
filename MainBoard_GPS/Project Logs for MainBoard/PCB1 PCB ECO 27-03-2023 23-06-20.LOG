@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=Net*_2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=Net2Pin_5V_1 Pin=C2-2
+Removed Pin From Net: NetName=Net2Pin_3V_1 Pin=C3-1
+Removed Member From Class: ClassName=Esquematico Member=C1
+Removed Member From Class: ClassName=Esquematico Member=C2
+Removed Member From Class: ClassName=Esquematico Member=C3
+Added Component: Designator=C1 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_2 Pin=C1 100nF-2
+Added Pin To Net: NetName=Net2Pin_5V_1 Pin=C2 100nF-2
+Change Net Name : Old Net Name=Net2Pin_3V_0 New Net Name=Net3V3_0
+Change Net Name : Old Net Name=Net2Pin_3V_1 New Net Name=Net3V3_1
+Change Net Name : Old Net Name=Net2Pin_5V_1 New Net Name=Net5V_1
+Added Pin To Net: NetName=NetC3 100nF_2 Pin=C3 100nF-2
+Added Pin To Net: NetName=NetC3 100nF_2 Pin=Transceiver_CAN-2
+Added Net: Name=NetC3 100nF_2
+Added Member To Class: ClassName=Esquematico Member=Component 3V3 2Pin
+Added Member To Class: ClassName=Esquematico Member=Component 5V 2Pin
+Added Member To Class: ClassName=Esquematico Member=Component C1 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico Member=Component C2 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico Member=Component C3 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico Member=Component Transceiver_CAN MCP2551-E/SN
+Added Room: Name=Esquematico

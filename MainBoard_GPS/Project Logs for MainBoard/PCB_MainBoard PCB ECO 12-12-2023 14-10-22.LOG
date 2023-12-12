@@ -1,0 +1,23 @@
+Added Component: Designator=GPS(SAMTEC_FWJ-04-01-T-S)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FWJ-04-01-T-S/Samtec/view-part/3573755/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FWJ-04-01-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FWJ-04-01-T-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FWJ-04-01-T-S/Samtec/view-part/3573755/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net_30 Pin=GPS-01
+Added Pin To Net: NetName=GND Pin=GPS-04
+Added Pin To Net: NetName=Net_6 Pin=-6
+Added Pin To Net: NetName=Net_6 Pin=GPS-03
+Added Net: Name=Net_6
+Added Pin To Net: NetName=Net_7 Pin=-7
+Added Pin To Net: NetName=Net_7 Pin=GPS-02
+Added Net: Name=Net_7
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component GPS FWJ-04-01-T-S
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver_CAN MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component V_Reg TS1117BCW50_RPG
+Added Room: Name=Esquematico_MainBoard

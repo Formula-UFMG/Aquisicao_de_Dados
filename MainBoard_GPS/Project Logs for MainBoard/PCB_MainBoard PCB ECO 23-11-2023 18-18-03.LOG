@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net_1 Pin=C3 100nF-1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C1 100nF C2012X5R1E225M085AC
+Added Room: Name=Esquematico_MainBoard

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=Net*_3 Pin=C3-2
+Removed Pin From Net: NetName=Net*_3 Pin=Transceiver_CAN-2
+Change Component Comment : Designator=Transceiver_CAN Old Comment=MCP2551 New Comment=MCP2551-E/SN
+Change Component Comment : Designator=* Old Comment=MP1584 New Comment=Component_1
+Change Component Designator: OldDesignator=2Pin NewDesignator=2Pin_CAN
+Added Component: Designator=2Pin_3V(2Pin)
+Added Component: Designator=2Pin_5V(2Pin)
+Added Pin To Net: NetName=Net*_3 Pin=2Pin_5V-1
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net2Pin_5V_1
+Added Pin To Net: NetName=Net2Pin_3V_0 Pin=-1
+Added Pin To Net: NetName=Net2Pin_3V_0 Pin=2Pin_3V-0
+Added Net: Name=Net2Pin_3V_0
+Added Pin To Net: NetName=Net2Pin_3V_1 Pin=2Pin_3V-1
+Added Pin To Net: NetName=Net2Pin_3V_1 Pin=2Pin_5V-0
+Added Pin To Net: NetName=Net2Pin_3V_1 Pin=C3-2
+Added Pin To Net: NetName=Net2Pin_3V_1 Pin=Transceiver_CAN-2
+Added Net: Name=Net2Pin_3V_1
+Added Member To Class: ClassName=Esquematico Member=Component * Component_1
+Added Member To Class: ClassName=Esquematico Member=Component 2Pin_3V 2Pin
+Added Member To Class: ClassName=Esquematico Member=Component 2Pin_5V 2Pin
+Added Member To Class: ClassName=Esquematico Member=Component 2Pin_CAN 2Pin
+Added Member To Class: ClassName=Esquematico Member=Component 100k CRG1206F620K
+Added Member To Class: ClassName=Esquematico Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico Member=Component C1 100nF
+Added Member To Class: ClassName=Esquematico Member=Component C2 100nF
+Added Member To Class: ClassName=Esquematico Member=Component C3 100nF
+Added Member To Class: ClassName=Esquematico Member=Component Fusivel F1206B3R00FWTR
+Added Member To Class: ClassName=Esquematico Member=Component MiniFit_CAN 874270402
+Added Member To Class: ClassName=Esquematico Member=Component Modulo_SD Component_1
+Added Member To Class: ClassName=Esquematico Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico Member=Component Transceiver_CAN MCP2551-E/SN
+Added Room: Name=Esquematico

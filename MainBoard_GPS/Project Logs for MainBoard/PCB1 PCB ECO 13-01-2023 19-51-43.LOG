@@ -1,0 +1,151 @@
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=2Pin_CAN(2Pin)
+Added Component: Designator=100k(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=120(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC3216X180N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL31B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CL31B104KBCNNNC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC3216X180N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL31B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CL31B104KBCNNNC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC3216X180N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL31B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CL31B104KBCNNNC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CL31B104KBCNNNC/Samsung+Electro-Mechanics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Fusivel(*FUSM3216X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F1206B3R00FWTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/F1206B3R00FWTR/AVX%20/%20Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MiniFit_CAN(MOLEX_874270402)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "874270402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/874270402/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Modulo_SD(MICROSD_MODULE)
+Added Component: Designator=(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Transceiver_CAN(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP2551-E/SN/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=GND Pin=-29
+Added Pin To Net: NetName=GND Pin=100k-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=MiniFit_CAN-3
+Added Pin To Net: NetName=GND Pin=Modulo_SD-0
+Added Net: Name=GND
+Added Pin To Net: NetName=Net2Pin_CAN_0 Pin=2Pin_CAN-0
+Added Pin To Net: NetName=Net2Pin_CAN_0 Pin=120-2
+Added Net: Name=Net2Pin_CAN_0
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=2Pin_CAN-1
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=MiniFit_CAN-1
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=Transceiver_CAN-7
+Added Net: Name=Net2Pin_CAN_1
+Added Pin To Net: NetName=Net100k_2 Pin=100k-2
+Added Pin To Net: NetName=Net100k_2 Pin=Transceiver_CAN-8
+Added Net: Name=Net100k_2
+Added Pin To Net: NetName=Net120_1 Pin=120-1
+Added Pin To Net: NetName=Net120_1 Pin=MiniFit_CAN-2
+Added Pin To Net: NetName=Net120_1 Pin=Transceiver_CAN-6
+Added Net: Name=Net120_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=C1-2
+Added Pin To Net: NetName=Net*_2 Pin=Fusivel-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=-30
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=C2-2
+Added Pin To Net: NetName=Net*_3 Pin=C3-2
+Added Pin To Net: NetName=Net*_3 Pin=Modulo_SD-1
+Added Pin To Net: NetName=Net*_3 Pin=Transceiver_CAN-2
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_3 Pin=Modulo_SD-5
+Added Net: Name=Net_3
+Added Pin To Net: NetName=Net_5 Pin=-5
+Added Pin To Net: NetName=Net_5 Pin=Transceiver_CAN-4
+Added Net: Name=Net_5
+Added Pin To Net: NetName=Net_8 Pin=-8
+Added Pin To Net: NetName=Net_8 Pin=Transceiver_CAN-1
+Added Net: Name=Net_8
+Added Pin To Net: NetName=Net_9 Pin=-9
+Added Pin To Net: NetName=Net_9 Pin=Modulo_SD-4
+Added Net: Name=Net_9
+Added Pin To Net: NetName=Net_10 Pin=-10
+Added Pin To Net: NetName=Net_10 Pin=Modulo_SD-2
+Added Net: Name=Net_10
+Added Pin To Net: NetName=Net_15 Pin=-15
+Added Pin To Net: NetName=Net_15 Pin=Modulo_SD-3
+Added Net: Name=Net_15
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=Transceiver_CAN-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetFusivel_1 Pin=Fusivel-1
+Added Pin To Net: NetName=NetFusivel_1 Pin=MiniFit_CAN-4
+Added Net: Name=NetFusivel_1
+Added Class: Name=Esquematico
+Added Room: Name=Esquematico
