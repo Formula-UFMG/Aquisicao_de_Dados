@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=CAN_Ext NewDesignator=Sincronia
+Change Component Designator: OldDesignator=CAN_FT NewDesignator=CAN
+Change Component Designator: OldDesignator= R1 100k NewDesignator=100k
+Change Component Designator: OldDesignator=R1 120 NewDesignator=120
+Change Component Designator: OldDesignator=Terminador_CAN_FT NewDesignator=2Pin_CAN
+Change Component Designator: OldDesignator=Transceiver_CAN NewDesignator=Transceiver

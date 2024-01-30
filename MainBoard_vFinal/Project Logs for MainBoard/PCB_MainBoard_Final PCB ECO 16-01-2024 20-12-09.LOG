@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=100k NewDesignator=R2 100k
+Add Net: Net with name "Net120_1" already exists
+Add Net: Net with name "Net120_2" already exists
+Added Room: Name=Esquematico_MainBoard

@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=120 NewDesignator=R2 120
+Change Net Name : Old Net Name=Net120_1 New Net Name=NetCAN_Ext_1
+Change Net Name : Old Net Name=Net120_2 New Net Name=NetR2 120_2
+Added Pin To Net: NetName=Net120_1 Pin=120-1
+Added Pin To Net: NetName=Net120_1 Pin=CAN_FT-1
+Added Pin To Net: NetName=Net120_1 Pin=Transceiver-6
+Added Net: Name=Net120_1
+Added Pin To Net: NetName=Net120_2 Pin=120-2
+Added Pin To Net: NetName=Net120_2 Pin=T_FT-0
+Added Net: Name=Net120_2
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_Ext 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_FT 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component R2 120 CRG1206F620K
+Added Room: Name=Esquematico_MainBoard

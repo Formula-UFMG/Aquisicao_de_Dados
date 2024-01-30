@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=100nF NewDesignator=C1 100nF
+Change Component Designator: OldDesignator=100nF NewDesignator=C2 100nF
+Change Component Designator: OldDesignator=100nF NewDesignator=C3 100nF
+Change Component Designator: OldDesignator=100nF NewDesignator=C4 100nF
+Add Net: Net with name "Net120_1" already exists
+Add Net: Net with name "Net120_2" already exists
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 100k CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C1 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C2 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C3 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C4 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_Ext 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_Ext 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_FT 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_FT 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Fusivel F1206B3R00FWTR
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component GPS FWJ-04-01-T-S
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Modulo_SD Component_1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component R2 100k CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sensores 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sinc_Ext 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sinc_FT 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component T_Ext 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component T_FT 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver_Ext MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Vreg Component_1
+Added Room: Name=Esquematico_MainBoard

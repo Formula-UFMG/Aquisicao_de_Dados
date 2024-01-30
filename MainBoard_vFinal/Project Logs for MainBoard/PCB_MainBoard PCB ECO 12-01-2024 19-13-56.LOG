@@ -1,0 +1,262 @@
+Added Component: Designator=2Pin_CAN(2Pin)
+Added Component: Designator=100k(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=120(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN_Ext(MOLEX_874270402)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "874270402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/874270402/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN_FT(MOLEX_874270402)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "874270402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/874270402/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Fusivel(*FUSM3216X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F1206B3R00FWTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/F1206B3R00FWTR/AVX%20/%20Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPS(SAMTEC_FWJ-04-01-T-S)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FWJ-04-01-T-S/Samtec/view-part/3573755/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FWJ-04-01-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FWJ-04-01-T-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FWJ-04-01-T-S/Samtec/view-part/3573755/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Modulo_SD(MICROSD_MODULE)
+Added Component: Designator=R2 100k(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2 120(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRG1206F620K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.00 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRG1206F620K/TE%20Connectivity%20/%20DEUTSCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Seletor_1(2Pin)
+Added Component: Designator=Seletor_2(2Pin)
+Added Component: Designator=Seletor_3(2Pin)
+Added Component: Designator=Seletor_4(2Pin)
+Added Component: Designator=Sensores(MOLEX_874270402)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "874270402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/874270402/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/874270402/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Terminador_CAN_E(2Pin)
+Added Component: Designator=(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Transceiver_CAN_Ext(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP2551-E/SN/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Transceiver(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP2551-E/SN/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-E/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=V_Reg(VREG_TS1117BCW50_RPG)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS1117BCW50%20RPG/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS1117BCW50 RPG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TS1117BCW50 RPG/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS1117BCW50%20RPG/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_5 Pin=-5
+Added Pin To Net: NetName=Net_6 Pin=-6
+Added Pin To Net: NetName=Net_7 Pin=-7
+Added Pin To Net: NetName=Net_8 Pin=-8
+Added Pin To Net: NetName=Net_9 Pin=-9
+Added Pin To Net: NetName=Net_10 Pin=-10
+Added Pin To Net: NetName=Net_11 Pin=-11
+Added Pin To Net: NetName=Net_14 Pin=-14
+Added Pin To Net: NetName=Net_15 Pin=-15
+Added Pin To Net: NetName=Net_20 Pin=-20
+Added Pin To Net: NetName=Net_27 Pin=-27
+Added Pin To Net: NetName=Net_28 Pin=-28
+Added Pin To Net: NetName=GND Pin=-29
+Added Pin To Net: NetName=Net_30 Pin=-30
+Added Pin To Net: NetName=Net2Pin_CAN_0 Pin=2Pin_CAN-0
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=2Pin_CAN-1
+Added Pin To Net: NetName=GND Pin=100k-1
+Added Pin To Net: NetName=Net100k_2 Pin=100k-2
+Added Pin To Net: NetName=Net120_1 Pin=120-1
+Added Pin To Net: NetName=Net2Pin_CAN_0 Pin=120-2
+Added Pin To Net: NetName=NetC1 100nF_1 Pin=C1 100nF-1
+Added Pin To Net: NetName=GND Pin=C1 100nF-2
+Added Pin To Net: NetName=Net_1 Pin=C3 100nF-1
+Added Pin To Net: NetName=GND Pin=C3 100nF-2
+Added Pin To Net: NetName=Net_1 Pin=C4 100nF-1
+Added Pin To Net: NetName=GND Pin=C4 100nF-2
+Added Pin To Net: NetName=GND Pin=CAN_Ext-3
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=CAN_FT-1
+Added Pin To Net: NetName=GND Pin=CAN_FT-3
+Added Pin To Net: NetName=NetC1 100nF_1 Pin=Fusivel-2
+Added Pin To Net: NetName=Net_30 Pin=GPS-01
+Added Pin To Net: NetName=Net_7 Pin=GPS-02
+Added Pin To Net: NetName=Net_6 Pin=GPS-03
+Added Pin To Net: NetName=GND Pin=GPS-04
+Added Pin To Net: NetName=GND Pin=Modulo_SD-0
+Added Pin To Net: NetName=Net_30 Pin=Modulo_SD-1
+Added Pin To Net: NetName=Net_10 Pin=Modulo_SD-2
+Added Pin To Net: NetName=Net_15 Pin=Modulo_SD-3
+Added Pin To Net: NetName=Net_9 Pin=Modulo_SD-4
+Added Pin To Net: NetName=Net_3 Pin=Modulo_SD-5
+Added Pin To Net: NetName=GND Pin=R2 100k-1
+Added Pin To Net: NetName=NetR2 100k_2 Pin=R2 100k-2
+Added Pin To Net: NetName=NetR2 120_1 Pin=R2 120-1
+Added Pin To Net: NetName=NetR2 120_2 Pin=R2 120-2
+Added Pin To Net: NetName=Net_20 Pin=Seletor_1-0
+Added Pin To Net: NetName=NetR2 120_1 Pin=Seletor_2-1
+Added Pin To Net: NetName=Net_20 Pin=Seletor_3-0
+Added Pin To Net: NetName=Net120_1 Pin=Seletor_4-1
+Added Pin To Net: NetName=Net_14 Pin=Sensores-1
+Added Pin To Net: NetName=Net_11 Pin=Sensores-2
+Added Pin To Net: NetName=GND Pin=Sensores-3
+Added Pin To Net: NetName=Net_1 Pin=Sensores-4
+Added Pin To Net: NetName=NetR2 120_2 Pin=Terminador_CAN_E-0
+Added Pin To Net: NetName=Net_8 Pin=Transceiver-1
+Added Pin To Net: NetName=GND Pin=Transceiver-2
+Added Pin To Net: NetName=Net_1 Pin=Transceiver-3
+Added Pin To Net: NetName=Net_5 Pin=Transceiver-4
+Added Pin To Net: NetName=Net120_1 Pin=Transceiver-6
+Added Pin To Net: NetName=Net2Pin_CAN_1 Pin=Transceiver-7
+Added Pin To Net: NetName=Net100k_2 Pin=Transceiver-8
+Added Pin To Net: NetName=Net_28 Pin=Transceiver_CAN_Ext-1
+Added Pin To Net: NetName=GND Pin=Transceiver_CAN_Ext-2
+Added Pin To Net: NetName=Net_1 Pin=Transceiver_CAN_Ext-3
+Added Pin To Net: NetName=Net_27 Pin=Transceiver_CAN_Ext-4
+Added Pin To Net: NetName=NetR2 120_1 Pin=Transceiver_CAN_Ext-6
+Added Pin To Net: NetName=NetR2 100k_2 Pin=Transceiver_CAN_Ext-8
+Added Pin To Net: NetName=GND Pin=V_Reg-1
+Added Pin To Net: NetName=Net_30 Pin=V_Reg-2
+Added Pin To Net: NetName=NetC1 100nF_1 Pin=V_Reg-3
+Added Pin To Net: NetName=NetCAN_Ext_1 Pin=CAN_Ext-1
+Added Pin To Net: NetName=NetCAN_Ext_1 Pin=Terminador_CAN_E-1
+Added Pin To Net: NetName=NetCAN_Ext_1 Pin=Transceiver_CAN_Ext-7
+Added Net: Name=NetCAN_Ext_1
+Added Pin To Net: NetName=NetCAN_Ext_2 Pin=CAN_Ext-2
+Added Pin To Net: NetName=NetCAN_Ext_2 Pin=Seletor_1-1
+Added Pin To Net: NetName=NetCAN_Ext_2 Pin=Seletor_2-0
+Added Net: Name=NetCAN_Ext_2
+Added Pin To Net: NetName=NetCAN_Ext_4 Pin=CAN_Ext-4
+Added Pin To Net: NetName=NetCAN_Ext_4 Pin=CAN_FT-4
+Added Pin To Net: NetName=NetCAN_Ext_4 Pin=Fusivel-1
+Added Net: Name=NetCAN_Ext_4
+Added Pin To Net: NetName=NetCAN_FT_2 Pin=CAN_FT-2
+Added Pin To Net: NetName=NetCAN_FT_2 Pin=Seletor_3-1
+Added Pin To Net: NetName=NetCAN_FT_2 Pin=Seletor_4-0
+Added Net: Name=NetCAN_FT_2
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 2Pin_CAN 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 100k CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C1 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C3 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C4 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_Ext 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_FT 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Fusivel F1206B3R00FWTR
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component GPS FWJ-04-01-T-S
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Modulo_SD Component_1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component R2 100k CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component R2 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Seletor_1 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Seletor_2 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Seletor_3 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Seletor_4 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sensores 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Terminador_CAN_E 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver_CAN_Ext MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component V_Reg TS1117BCW50_RPG
+Added Room: Name=Esquematico_MainBoard

@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=C1 100nF-2
+Removed Pin From Net: NetName=NetC1 100nF_1 Pin=Fusivel-2
+Removed Pin From Net: NetName=GND Pin=V_Reg-1
+Removed Pin From Net: NetName=Net_30 Pin=V_Reg-2
+Removed Pin From Net: NetName=NetC1 100nF_1 Pin=V_Reg-3
+Change Component Footprint: Designator=V_Reg Old Footprint=VREG_TS1117BCW50_RPG New Footprint=PCBComponent_1
+Change Component Comment : Designator=V_Reg Old Comment=TS1117BCW50_RPG New Comment=Component_1
+Change Component Designator: OldDesignator=V_Reg NewDesignator=Vreg
+Change component parameters: Designator = "V_Reg" ("Vreg"); Footprint = "VREG_TS1117BCW50_RPG"; UniqueID = "\APJRTHVT" ("\APJRTHVT")
+Added Component: Designator=C2 100nF(*CAPC2012X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C2012X5R1E225M085AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C2012X5R1E225M085AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2 100nF-1
+Added Pin To Net: NetName=Net_30 Pin=C2 100nF-2
+Added Pin To Net: NetName=NetC1 100nF_1 Pin=Vreg-1
+Added Pin To Net: NetName=NetC1 100nF_1 Pin=Vreg-1
+Added Pin To Net: NetName=Net_30 Pin=Vreg-3
+Added Pin To Net: NetName=Net_30 Pin=Vreg-3
+Added Pin To Net: NetName=GND Pin=Vreg-4
+Added Pin To Net: NetName=GND Pin=Vreg-4
+Change Net Name : Old Net Name=Net2Pin_CAN_0 New Net Name=Net120_2
+Change Net Name : Old Net Name=Net2Pin_CAN_1 New Net Name=NetCAN_FT_1
+Change Net Name : Old Net Name=NetCAN_Ext_2 New Net Name=NetCAN_Ext_0
+Change Net Name : Old Net Name=NetCAN_FT_2 New Net Name=NetCAN_FT_0
+Change Net Name : Old Net Name=NetR2 120_1 New Net Name=Net120_1
+Change Net Name : Old Net Name=NetR2 120_2 New Net Name=Net120_2
+Added Pin To Net: NetName=NetC1 100nF_2 Pin=C1 100nF-2
+Added Pin To Net: NetName=NetC1 100nF_2 Pin=Fusivel-2
+Added Pin To Net: NetName=NetC1 100nF_2 Pin=Vreg-2
+Added Pin To Net: NetName=NetC1 100nF_2 Pin=Vreg-2
+Added Net: Name=NetC1 100nF_2
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component C2 100nF C2012X5R1E225M085AC
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_Ext 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component CAN_FT 874270402
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sinc_Ext 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Sinc_FT 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component T_Ext 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component T_FT 2Pin
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver_Ext MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Vreg Component_1
+Added Room: Name=Esquematico_MainBoard

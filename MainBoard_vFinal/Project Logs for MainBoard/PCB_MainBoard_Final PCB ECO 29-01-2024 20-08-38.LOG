@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=CAN_Ext NewDesignator=Sel_CAN_Ext
+Change Component Designator: OldDesignator=CAN_FT NewDesignator=Sel_CAN_FT
+Added Pin To Net: NetName=GND Pin=C1 100nF-1
+Added Pin To Net: NetName=GND Pin=Vreg-1
+Added Pin To Net: NetName=GND Pin=Vreg-1
+Change Net Name : Old Net Name=NetCAN_Ext_0 New Net Name=NetCAN_Ext_2
+Change Net Name : Old Net Name=NetCAN_Ext_1 New Net Name=NetR2 120_1
+Change Net Name : Old Net Name=NetCAN_FT_0 New Net Name=NetCAN_FT_2
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component R2 120 CRG1206F620K
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component  ESP32-DEVKIT-V1
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver_Ext MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Transceiver MCP2551-E/SN
+Added Member To Class: ClassName=Esquematico_MainBoard Member=Component Vreg Component_1
+Added Room: Name=Esquematico_MainBoard

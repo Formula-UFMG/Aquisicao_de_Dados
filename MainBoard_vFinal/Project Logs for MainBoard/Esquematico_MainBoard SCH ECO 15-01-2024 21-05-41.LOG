@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=2Pin_CAN NewDesignator=T_FT
+Change Component Designator: OldDesignator=R2 120 NewDesignator=120
+Change Component Designator: OldDesignator=Seletor_1 NewDesignator=Sinc_Ext
+Change Component Designator: OldDesignator=Seletor_2 NewDesignator=CAN_Ext
+Change Component Designator: OldDesignator=Seletor_3 NewDesignator=Sinc_FT
+Change Component Designator: OldDesignator=Seletor_4 NewDesignator=CAN_FT
+Change Component Designator: OldDesignator=Terminador_CAN_E NewDesignator=T_Ext
+Change Component Designator: OldDesignator=Transceiver_CAN_Ext NewDesignator=Transceiver_Ext
